@@ -197,7 +197,7 @@ blockquote {
 .card_author-name {
     font-weight: 700;
     font-size: 16px;
-    line-height: 135%;
+    line-height: 1.35;
     color: #f5f5f5;
     margin-bottom: 8px;
 }
@@ -206,7 +206,7 @@ blockquote {
     font-family: EB Garamond, serif;
     font-weight: 500;
     font-size: 22px;
-    line-height: 135%;
+    line-height: 1.35;
     color: #f5f5f5;
     margin-bottom: 8px;
 }
@@ -214,9 +214,8 @@ blockquote {
 .card_text {
     font-weight: 400;
     font-size: 16px;
-    height: 135%;
+    line-height: 1.35;
     color: #f5f5f5;
-    margin-bottom: 20px;
 }
 
 .card_theme_bright {
