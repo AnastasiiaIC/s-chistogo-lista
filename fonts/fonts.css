@@ -8,6 +8,7 @@
         url('ebgaramondmedium.ttf') format('truetype');
   font-family: 'EB Garamond';
   font-weight: 500;
+  font-display: swap;
 }
 
 @font-face {
@@ -20,6 +21,7 @@
         url('ebgaramondregular.ttf') format('truetype');
   font-family: 'EB Garamond';
   font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
@@ -30,6 +32,7 @@
         url('interregular.ttf') format('truetype');
   font-family: 'Inter';
   font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
@@ -39,4 +42,5 @@
         url('interbold.ttf') format('truetype');
   font-family: 'Inter';
   font-weight: 700;
+  font-display: swap;
 }
